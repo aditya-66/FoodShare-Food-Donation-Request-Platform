@@ -28,7 +28,7 @@ Built using **PHP, MySQL, HTML, CSS, and Bootstrap**, this project allows users 
 ![Browse Donations](https://github.com/aditya-66/FoodShare-Food-Donation-Request-Platform/blob/d47c7236b2fcf2bee1faa93927eb724defaeefa6/browse.png)
 
 **4️⃣ Login Page**  
-![Login Page](screenshots/login.png)
+![Login Page](https://github.com/aditya-66/FoodShare-Food-Donation-Request-Platform/blob/14c0e7434a428044d7d29e46e411b1a45b34c071/login.png)
 
 **5️⃣ Signup Page**  
 ![Signup Page](https://github.com/aditya-66/FoodShare-Food-Donation-Request-Platform/blob/1c5cb3d735357e6ffd54296b253360694ec35003/signup.png)
