@@ -34,7 +34,7 @@ Built using **PHP, MySQL, HTML, CSS, and Bootstrap**, this project allows users 
 ![Signup Page](https://github.com/aditya-66/FoodShare-Food-Donation-Request-Platform/blob/1c5cb3d735357e6ffd54296b253360694ec35003/signup.png)
 
 **6️⃣ Role Selection Page (Donor/Receiver)**  
-![Role Selection](screenshots/role-selection.png)
+![Role Selection](https://github.com/aditya-66/FoodShare-Food-Donation-Request-Platform/blob/6cd2029d3c59a409c232b035dc6bcdacd1e78e99/role-selection.png)
 
 
 ---
