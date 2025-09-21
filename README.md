@@ -19,22 +19,22 @@ Built using **PHP, MySQL, HTML, CSS, and Bootstrap**, this project allows users 
 ## 🖼️ Screenshots:  
 
 **1️⃣ Home Page**  
-![Home Page](screenshots/home.png)  
+home.png
 
 **2️⃣ Donate Page**  
-![Donate Page](screenshots/donate.png)  
+donate.png  
 
 **3️⃣ Browse Donations**  
-![Browse Donations](screenshots/browse.png)  
+browse.png
 
 **4️⃣ Login Page**  
-![Login Page](screenshots/login.png)  
+login.png 
 
 **5️⃣ Signup Page**  
-![Signup Page](screenshots/signup.png)  
+signup.png
 
 **6️⃣ Role Selection Page (Donor/Receiver)**  
-![Role Selection](screenshots/role-selection.png)  
+selection.png 
 
 ---
 
